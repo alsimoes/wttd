@@ -25,3 +25,16 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#WttD
+include
+lib
+local
+man
+share
+Scripts
+.Python
+*.pyc
+*~
+*.db
+.DS_Store
