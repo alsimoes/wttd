@@ -5,7 +5,7 @@ from django.conf.urls import patterns, include, url
 # admin.autodiscover()
 
 urlpatterns = patterns('eventex.core.views',
-	url(r'^$', 'homepage', name='homepage'),
+    url(r'^$', 'homepage', name='homepage'),
     # Examples:
     # url(r'^$', 'eventex.views.home', name='home'),
     # url(r'^eventex/', include('eventex.foo.urls')),
