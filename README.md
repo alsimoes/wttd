@@ -11,6 +11,7 @@ App desenvolvido com o framework Django para fixação do conteúdo do curso **W
 
 ### 0.2
 - `Corrigido`: Desatinvando o modo DEBUG no servidor.
+- `Adicionado`: Página do erro 404.
 
 ### 0.1
 - `Adicionado`: Implementação do projeto com o código disponibilizado pelo Henrique.
