@@ -3,11 +3,14 @@
 App desenvolvido com o framework Django para fixação do conteúdo do curso **Welcome To The Django**.
 
 ## Links
-- Heroku: http://wttd-alsimoes.herokuapp.com/
+- Deploy: http://wttd.alsimoes.net/
 - Código-fonte: https://github.com/alsimoes/wttd/
-- Welcome To The Django: http://welcometothedjango.com.br/
+- Curso: http://welcometothedjango.com.br/
 
 ## Versões
+
+### 0.2
+- `Corrigido`: Desatinvando o modo DEBUG no servidor.
 
 ### 0.1
 - `Adicionado`: Implementação do projeto com o código disponibilizado pelo Henrique.
