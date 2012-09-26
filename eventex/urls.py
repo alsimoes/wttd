@@ -19,6 +19,6 @@ urlpatterns = patterns('eventex.core.views',
 )
 
 if settings.DEBUG is False:
-    urlpatterns += ('',
+    urlpatterns += patterns('',
         url(r'ˆstatic/(?P<path>.*)$', 'django.views.static.serve', {'document_root':settings.STATIC_ROOT}),
         )
