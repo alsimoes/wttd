@@ -12,6 +12,9 @@ App desenvolvido com o framework Django para fixação do conteúdo do curso **W
 ### 0.3
 - `Adicionado`: Meu layout "Laranja Mecânica". :)
 
+### 0.3
+- `Adicionado`: Meu layout "Laranja Mecânica". :)
+
 ### 0.2
 - `Corrigido`: Desatinvando o modo DEBUG no servidor.
 - `Adicionado`: Página do erro 404.
