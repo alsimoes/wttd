@@ -4,6 +4,7 @@ CSS
 
 html {
   background-color: #ff6600;
+  background-image: url(/static/img/bg.png);
 }
 
 body {
