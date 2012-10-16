@@ -9,8 +9,10 @@ App desenvolvido com o framework Django para fixação do conteúdo do curso **W
 
 ## Versões
 
-### 0.3
-- `Adicionado`: Meu layout "Laranja Mecânica". :)
+### 0.4
+- `Adicionado`: Página de inscrições".
+- `Corrigido`: Suavização do background do layout "Laranja Mecânica".
+- `Corrigido`: Correção do arquivo README.md".
 
 ### 0.3
 - `Adicionado`: Meu layout "Laranja Mecânica". :)
