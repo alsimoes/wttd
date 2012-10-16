@@ -11,7 +11,7 @@ App desenvolvido com o framework Django para fixação do conteúdo do curso **W
 
 ### 0.4
 - `Adicionado`: Página de inscrições".
-- `Corrigido`: Suavização do background do layout "Laranja Mecânica".
+- `Melhorado`: Suavização do background do layout "Laranja Mecânica".
 - `Corrigido`: Correção do arquivo README.md".
 
 ### 0.3
