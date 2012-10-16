@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"href",
+				"href	@href"
+			],
+			[
+				"subs",
+				"subscriptions"
+			],
+			[
+				"Subs",
+				"SubscriptionForm"
+			],
+			[
+				"Sub",
+				"subscription"
+			],
+			[
+				"test",
+				"TesteCase"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"dj",
+				"dj_database_url"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"even",
+				"eventex"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mai",
+				"margin-left"
+			],
+			[
+				"t",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/__init__.py",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test_views_subscribe.py",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test_forms.py",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/test_models.py",
+			"settings":
+			{
+				"buffer_size": 1629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "forms.py",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models.py",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/subscriptions/subscription_form.html",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/subscriptions/tests.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/subscriptions/__init__.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/static/css/style.css",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/templates/base.html",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/templates/index.html",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/subscriptions/tests/__init__.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/.travis.yml",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/urls.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/subscriptions/templates/subscriptions/subscription_form.html",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/templates/500.html",
+		"/Users/alsimoes/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/alsimoes/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/tests.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/settings.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/__init__.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/README.md",
+		"/Users/alsimoes/workspace/wttd-t8/aula1/meu_design/css/style.css",
+		"/Users/alsimoes/workspace/wttd-t8/aula1/meu_design/index.html",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/templates/404.html",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/Procfile",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/requirements.txt",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/eventex/core/views.py",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/bin/activate.fish",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/bin/activate.csh",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/bin/activate",
+		"/Users/alsimoes/.bash_profile",
+		"/Users/alsimoes/workspace/wttd-t8/wttdX/README.md",
+		"/Users/alsimoes/Dropbox/.dotfiles/.bashrc",
+		"/Users/alsimoes/workspace/wttd-t8/wttdX/.gitignore",
+		"/Users/alsimoes/workspace/wttd-t8/wttd/.gitignore",
+		"/Users/alsimoes/workspace/wttd-t8/wttd-t8.sublime-project",
+		"/Users/alsimoes/workspace/wttd-t8/aula1/wttd/eventex/settings.py",
+		"/Users/alsimoes/workspace/fpatool/fpatool-gae/index.html",
+		"/Users/alsimoes/workspace/fpatool/fpatool-gae/media/style.css",
+		"/Users/alsimoes/workspace/fpatool/fpatool-gae/index.yaml",
+		"/Users/alsimoes/workspace/testes/fix_footer/test.html",
+		"/Users/alsimoes/workspace/fpatool/fpatool-gae/main.py",
+		"/Users/alsimoes/workspace/fpatool/fpatool-gae/app.yaml",
+		"/Users/alsimoes/workspace/fpatool/landingpage/code/media/style.css",
+		"/Users/alsimoes/workspace/fpatool/landingpage/code/index.html",
+		"/Users/alsimoes/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/alsimoes/workspace/fpatool/landingpage/code/media/style_reset.css",
+		"/Users/alsimoes/workspace/fpatool/landingpage/code/style.css",
+		"/Users/alsimoes/workspace/fpatool/landingpage/code/style_reset.css",
+		"/Users/alsimoes/workspace/fpatool/landingpage/dev/index.html",
+		"/Users/alsimoes/workspace/fpatool/landingpage/dev/:Users:alsimoes:workspace:fpatool:landingpage:dev:index.html",
+		"/Users/alsimoes/Downloads/mapreduce/include.yaml",
+		"/Volumes/Satellite/Software/Mac/Red Sweater MarsEdit v3.2.2 MacOSX Incl Keymaker/Torrent downloaded from AhaShare.com.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"10",
+			".bottom",
+			"response"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#footer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/__init__.py",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/test_views_subscribe.py",
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/test_forms.py",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tests/test_models.py",
+					"settings":
+					{
+						"buffer_size": 1629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								833,
+								833
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views.py",
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "forms.py",
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "models.py",
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/subscriptions/subscription_form.html",
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
